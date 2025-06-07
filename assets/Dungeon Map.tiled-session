@@ -1,0 +1,47 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "#tilemap_packed": {
+            "scaleInDock": 1
+        },
+        "Dungeon Map.tmx": {
+            "scale": 2.2206249999999996,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 80.15761328454829,
+                "y": 79.93245144947933
+            }
+        },
+        "Dungeon Map.tmx#tilemap_packed": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/aaron/CMPM120/Game 2(b)-Gallery shooter implementation/assets",
+    "last.imagePath": "C:/Users/aaron/Downloads/kenney_pixel-platformer/Tilemap",
+    "map.fixedSize": false,
+    "map.height": 20,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 30,
+    "openFiles": [
+        "Dungeon Map.tmx"
+    ],
+    "project": "Dungeon Map.tiled-project",
+    "recentFiles": [
+        "Dungeon Map.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
